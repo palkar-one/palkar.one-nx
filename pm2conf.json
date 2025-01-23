@@ -1,0 +1,9 @@
+{
+    "apps": [
+        {
+            "name": "palkaroneui",
+            "script": "npm run start",
+            "args" : "start"
+        }
+    ]
+}
